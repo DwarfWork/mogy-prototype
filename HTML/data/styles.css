@@ -11,9 +11,13 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 .image {
 }
 .placeholder {
+}
+.button {
 }
 .primary_button {
   color:#FFFFFF;
@@ -62,6 +66,10 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 .paragraph {
   text-align:left;
 }
@@ -69,9 +77,24 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.flow_shape {
+}
 .html_button {
   color:#000000;
   text-align:center;
 }
 .menu_item {
+}
+.icon {
 }
